@@ -38,4 +38,8 @@ Five changes, although negligble, in the analysis:
 * A decrease in passing reading percentage
 * A decrease in overall passing percentage
 
+<<<<<<< HEAD
 Overall, there was not a lot of change in the analysis. There were 39,170 students analyzed from 15 different schools. 461 freshman students from Thoms High School will not have a large impact on the high-level results.
+=======
+Overall, there was not a lot of change in the analysis. There were 39,170 students analyzed from 15 different schools. 461 freshman students from Thoms High School will not have a large impact on the high-level results.
+>>>>>>> c542c8acd90f95b0d7c6c7797c698bd7b48f1ba8
